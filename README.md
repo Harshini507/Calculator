@@ -60,7 +60,7 @@ todo-list-python/
 
 📝 Author
 
-Mancha Malini
+Bathala Harshini
 B.Tech – Computer Science and Engineering
 Andhra Engineering College
 Internship Project (2025)
